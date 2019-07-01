@@ -11,4 +11,4 @@ In the proyect folder, you are gona find a folder called "loaders", these python
 after the data is loaded into our database we can run the server and go to:
 localhost:8000/indicatr/uf or localhost:8000/indicatr/dolar to watch a list of the needed indicator.
 
-pd: the search functionality seems to be easy to crack, jusr a bit more search
+pd: the search functionality seems to be easy to crack, just a bit more search
